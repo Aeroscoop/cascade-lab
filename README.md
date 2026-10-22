@@ -1,5 +1,7 @@
 # Cascade lab
 
+Github page voor cascade-lab: https://aeroscoop.github.io/cascade-lab/cascade-lab.html
+
 Een ontwerplab voor startanimaties van webpagina's. Je stelt in hoe onderdelen van een pagina in beeld komen, ziet het resultaat direct op een proefpagina, en exporteert de instellingen als een blauwdruk die je in elk project kunt gebruiken.
 
 ## Het idee
